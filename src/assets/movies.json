@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dune2021",
+    "title": "Dune",
+    "score": "85",
+    "picture": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": "eeaao2022",
+    "title": "Everything Everywhere All at Once",
+    "score": "99",
+    "picture": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg?20220614192901"
+  },
+  {
+    "id": "topgun2022",
+    "title": "Top Gun: Maverick",
+    "score": "75",
+    "picture": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg"
+  },
+  {
+    "id": "nope2022",
+    "title": "Nope",
+    "score": "50",
+    "picture": "https://upload.wikimedia.org/wikipedia/en/e/e6/Nope_%28film%29_poster.jpg"
+  }
+]

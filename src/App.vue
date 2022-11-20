@@ -1,10 +1,12 @@
 <script setup>
 import Todo from './components/level0.5/TodoApp.vue';
+import MovieList from './components/level1/MovieList.vue';
 </script>
 
 <template>
   <main>
     <Todo />
+    <MovieList />
   </main>
 </template>
 

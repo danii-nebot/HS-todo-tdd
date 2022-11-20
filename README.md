@@ -2,7 +2,9 @@
 
 Fork this repository, then clone it in your local development environment and work your way through the levels.
 
-## Level 0 
+You **should not** need to run the application with `npm run dev` (but you can of course if you are curious).
+
+## Level 0
 
 The Counter component test is passing, but it's not following best Unit Testing practices for testing Vue Components. Can you spot what is wrong, and fix it?
 
@@ -13,6 +15,16 @@ tip: you can run `npm run test:unit Counter` to run the tests for this component
 Use **TDD** (Test Driven Development) to build this simple TODO list component.
 
 tip: you can run `npm run test:unit Todo` to run the tests for this component in isolation.
+
+## Level 1
+
+Finish the Unit Tests for MovieList, MovieCard and Ratings components.
+
+Some tests are not following best practices, some functionalities in the components are not finished so the current tests are not passing, and some test cases are missing. And do not forget to complete the unit tests for the utils library moonScore!
+
+Please read carefully the comments in the tests, as they will give you tips and pointers.
+
+Once you are finished, running `npm run test:coverage MovieList` should pass all the tests, report full green coverage and not output any errors, and same with `npm run test:coverage moonScore`.
 
 ## Recommended IDE Setup
 
