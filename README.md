@@ -32,6 +32,14 @@ Please read carefully the comments in the tests, as they will give you tips and 
 
 Once you are finished, running `npm run test:coverage MovieList` should pass all the tests, report full green coverage and not output any errors, and same with `npm run test:coverage moonScore`.
 
+## Level 3
+
+Complete the test suite for this async component!
+
+**Important**: Do not change the implementation of the component in order to complete the tests.
+
+Tip: This level can be challenging. Take note of the errors you might be getting on the test runs while trying different approaches.
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
