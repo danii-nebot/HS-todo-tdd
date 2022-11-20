@@ -1,6 +1,18 @@
-# hs-todo-tdd
+# HS Unit Test Assignment
 
-This template should help get you started developing with Vue 3 in Vite.
+Fork this repository, then clone it in your local development environment and work your way through the levels.
+
+## Level 0 
+
+The Counter component test is passing, but it's not following best Unit Testing practices for testing Vue Components. Can you spot what is wrong, and fix it?
+
+tip: you can run `npm run test:unit Counter` to run the tests for this component in isolation.
+
+## Level 0.5
+
+Use **TDD** (Test Driven Development) to build this simple TODO list component.
+
+tip: you can run `npm run test:unit Todo` to run the tests for this component in isolation.
 
 ## Recommended IDE Setup
 
