@@ -8,15 +8,21 @@ You **should not** need to run the application with `npm run dev` (but you can o
 
 The Counter component test is passing, but it's not following best Unit Testing practices for testing Vue Components. Can you spot what is wrong, and fix it?
 
-tip: you can run `npm run test:unit Counter` to run the tests for this component in isolation.
+Tip: you can run `npm run test:unit Counter` to run the tests for this component in isolation.
 
 ## Level 0.5
 
 Use **TDD** (Test Driven Development) to build this simple TODO list component.
 
-tip: you can run `npm run test:unit Todo` to run the tests for this component in isolation.
+Tip: you can run `npm run test:unit Todo` to run the tests for this component in isolation.
 
 ## Level 1
+
+Use **TDD** (Test Driven Development) to build this component that loads asynchronous data using fetch using the `onMounted` hook.
+
+Tip: you can run `npm run test:unit OnMounted` to run the tests for this component in isolation.
+
+## Level 2
 
 Finish the Unit Tests for MovieList, MovieCard and Ratings components.
 

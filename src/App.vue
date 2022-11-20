@@ -1,11 +1,13 @@
 <script setup>
 import Todo from './components/level0.5/TodoApp.vue';
-import MovieList from './components/level1/MovieList.vue';
+import FetchOnMounted from './components/level1/FetchOnMounted.vue';
+import MovieList from './components/level2/MovieList.vue';
 </script>
 
 <template>
   <main>
     <Todo />
+    <FetchOnMounted />
     <MovieList />
   </main>
 </template>
