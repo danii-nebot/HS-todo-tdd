@@ -1,6 +1,6 @@
 import { mount } from '@vue/test-utils';
 import { expect, test } from 'vitest';
-import TodoApp from '../TodoApp.vue';
+import TodoApp from './TodoApp.vue';
 
 test('renders a todo', () => {
   const wrapper = mount(TodoApp);
