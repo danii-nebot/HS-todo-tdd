@@ -5,7 +5,9 @@ import dataService from './utils/dataService';
 
 const movies = dataService.getMovies();
 
+// TODO: finish this function to make the test pass!
 function setFavoriteMovie() {}
+
 const favoriteMovie = ref('');
 </script>
 <template>
