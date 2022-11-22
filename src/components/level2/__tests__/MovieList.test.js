@@ -27,7 +27,7 @@ describe('MovieList.vue', () => {
   // TODO: write this test!
   it('should have no favorite movie by default', async () => {
     const wrapper = shallowMount(MovieList);
-    // ...?
+    // find select element and assert it has no selected option
   });
 
   // TODO: TDD time!
