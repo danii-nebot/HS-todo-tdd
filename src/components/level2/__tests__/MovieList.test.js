@@ -37,7 +37,7 @@ describe('MovieList.vue', () => {
     const wrapper = mount(MovieList);
     const movieCard = wrapper.findAllComponents(MovieCard)[0];
     await movieCard.vm.$emit('favorite-selected', 'eeaao2022');
-    await wrapper.vm.$nextTick();
+    await wrapper.vm.$nextTick(); // === flushPromises
     const select = wrapper.find('option:checked');
     expect(select.exists()).toBeTruthy();
   });

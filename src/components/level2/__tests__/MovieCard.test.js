@@ -19,3 +19,6 @@ describe('MovieCard.vue', () => {
 // TODO: rest computed from prop favoriteMovie is rendering the 😍 emoji when the prop movie's id is matching
 
 // TODO: test event favorite-selected is being emitted on button click
+
+// TIP: use "wrapper.emitted()" for the assertion
+// Read more here: https://v1.test-utils.vuejs.org/api/wrapper/emitted.html
